@@ -290,14 +290,7 @@ nav{
     font-family: 'Roboto', sans-serif;
     font-weight:600;
 }
-.div-body-511{
-    /* height: 40vh;
-    width: 40%;
-    display: flex;
 
-    justify-content: center;
-    align-items: center; */
-}
 .div-body-51-img{
     height: fit-content;
     width: 100%;
@@ -459,14 +452,7 @@ nav{
     font-family: 'Roboto', sans-serif;
     font-weight:600;
 }
-.div-body-611{
-    /* height: 40vh;
-    width: 40%;
-    display: flex;
 
-    justify-content: center;
-    align-items: center; */
-}
 .div-body-61-img{
     height: fit-content;
     width: 100%;
@@ -575,10 +561,195 @@ nav{
     margin-left: 10px;
 }
 .figure-macAir2{
-    height: 57vh;
+    height: 66vh;
     width: 100%;
     /* background: url('./images/3_leftSide_iPad.png'); */
     background-image: url('./images/4_rightSide_macAir.png') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* body-div-7 */
+/* PART-LEFT */
+
+
+.div-body-7{
+    margin-top: 50px;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    /* flex-wrap: wrap; */
+}
+.div-body-71{
+    width: 49.60%;
+    height: 60vh;
+    background-color: black;
+
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+     */
+}
+.div-body-71-h4{
+
+    font-size: 45px;
+    line-height: 21px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 40px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+.div-body-71-h5{
+
+    font-size: 21px;
+    color: aliceblue;
+    line-height: 14px;
+    text-align: center;
+    /* margin-top: 40px; */
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight:600;
+}
+
+.div-body-71-img{
+    height: fit-content;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+#div-body-71-2{
+    margin-left: 10px;
+    
+
+}
+
+
+#div-body-71-1 a{
+    text-decoration: none;
+    color:rgb(36,139,233);
+    text-decoration-style: none;
+    font-size: 19px;
+    /* background-color: rgb(250,251,252); */
+    /* line-height: 100px; */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#div-body-71-2 a{
+    text-decoration: none;
+    color:rgb(36,139,233);
+    text-decoration-style: none;
+    font-size: 19px;
+    /* line-height: 100px; */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.figure-airDops{
+    height: 63vh;
+    width: 100%;
+    /* background: url('./images/3_leftSide_iPad.png'); */
+    background-image: url('./images/5_leftSide_AirPods.png') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* body-div-7 */
+/* PART-RIGHT */
+
+
+/* .div-body-7{
+    margin-top: 39px;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: space-between;
+    
+} */
+.div-body-72{
+    width: 49.60%;
+    height: 20vh;
+    background-color: rgb(251,251,251);
+
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+     */
+}
+.div-body-72-h4{
+
+    font-size: 45px;
+    line-height: 21px;
+    text-align: center;
+    margin-top: 40px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+.div-body-72-h5{
+
+    font-size: 21px;
+    line-height: 14px;
+    text-align: center;
+    /* margin-top: 40px; */
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight:600;
+}
+
+.div-body-72-img{
+    height: fit-content;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+#div-body-72-2{
+    margin-left: 10px;
+    
+
+}
+
+#div-body-72-1{
+    display: block;
+    width: 100%;
+    /* align-items: center;
+    justify-content: center; */
+    text-align: center;
+   background-color: rgb(250,251,252);
+    
+
+}
+#div-body-72-1 a{
+    text-decoration: none;
+    color:rgb(36,139,233);
+    text-decoration-style: none;
+    font-size: 19px;
+    /* line-height: 100px; */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#div-body-72-2 a{
+    text-decoration: none;
+    color:rgb(36,139,233);
+    text-decoration-style: none;
+    font-size: 19px;
+    /* line-height: 100px; */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.figure-tradeIn{
+    height: 63vh;
+    width: 100%;
+    /* background: url('./images/3_leftSide_iPad.png'); */
+    background-image: url('./images/5_rightSide_TradeIn.png') ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
